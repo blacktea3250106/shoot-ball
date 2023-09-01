@@ -1,0 +1,22 @@
+import java.util.Scanner;
+
+public class test {
+	public static void main(String[] args) {
+		Scanner scnScanner=new Scanner(System.in);
+		String str0=scnScanner.next();
+		String str1=scnScanner.next();
+		int cnt=0;
+		for(int i=0;i<str0.length();i++) {
+			for(int j=0;j<str1.length();j++) {
+				if(str0.charAt(i)==str1.charAt(j)) {
+					cnt++;
+					continue;
+				}
+			}
+		}
+		System.out.println(cnt);
+		
+			
+		
+	}
+}
