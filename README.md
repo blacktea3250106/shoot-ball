@@ -10,7 +10,7 @@
 
 In this adaptation, you'll find yourself on a sports field instead of battling zombies. The objective is to shoot a variety of balls as they appear on the field. Here are the key features of the game:
 
-- **Shoot ??-?? Ball:**
+- **Different Ball Types:** Shoot a range of balls based on the number of shots:
   - Golf Balls: Shoot 1-30 balls
   - Bowling Balls: Shoot 31-65 balls
   - Billiard Balls: Shoot 66-90 balls
@@ -24,6 +24,7 @@ In this adaptation, you'll find yourself on a sports field instead of battling z
 ## How to Play
 
 - Use the arrow keys or ASD keys to aim and shoot the balls.
+- Your challenge is to achieve the highest score possible within a 30-second time limit.
 - The goal is to hit the required number of balls to advance to the next level and a new type of ball.
 - Keep an eye on the scoreboard, and aim for the highest score to claim the top spot.
 
